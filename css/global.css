@@ -1,0 +1,42 @@
+:root{
+  --cor-fundo-header: #0e0e0e;
+  --cor-fundo-sobre: #131313;
+  --cor-fundo-ervas: #1E1E1E;
+  --cor-fundo-contato: #000000;
+  --cor-h1: #ffffff;
+  --tamanho-h1: 3rem;
+  --tamanho-h2: 3rem;
+  --tamanho-h3: 1.5rem;
+
+}
+
+img{
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  color: #000000;
+}
+
+h1, h2, h3, p, ul, li,a{
+  margin: 0px;
+  padding: 0px;
+}
+
+h1, h2, h3{
+  font-family: 'Poppins', sans-serif;
+}
+
+p, a, li{
+  font-family: 'Open Sans', sans-serif;
+}
+
+a{
+  text-decoration: none;
+  color: #ffffff;
+  background-color: var(--teste);
+}
