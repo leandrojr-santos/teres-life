@@ -9,6 +9,9 @@
   --tamanho-h3: 1.5rem;
 
 }
+html{
+  scroll-behavior: smooth;
+}
 
 img{
   max-width: 100%;
@@ -20,7 +23,6 @@ body {
   margin: 0px;
   padding: 0px;
   color: #000000;
-  scroll-behavior: smooth;
 }
 
 h1, h2, h3, p, ul, li,a{
